@@ -1,0 +1,6 @@
+# ToDo: use an Ansible Azure Dynamic Inventory
+---
+all:
+  hosts:
+    htb00.cvdg.eu:
+       ansible_host: 137.116.200.214
